@@ -1,0 +1,8 @@
+Name: Mustafa Mahamoud Hamada
+Section: 2
+B.N: 25
+
+Name: Karim Mahmoud Kamal
+Section: 2
+B.N: 12
+
